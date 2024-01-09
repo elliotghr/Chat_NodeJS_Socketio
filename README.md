@@ -1,0 +1,1 @@
+Broadcast -> emitir un mensaje para todo el mundo
